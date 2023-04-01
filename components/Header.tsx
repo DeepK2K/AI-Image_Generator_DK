@@ -22,7 +22,7 @@ function Header() {
             <div className='text-xs md:text-base text-gray-500 divide-x items-center'>
                 <Link href='https://6421a60d12aaff0008bd132e--deepkumar-portfolio-17323b.netlify.app/'
                     className='px-2 font-light text-right'>Checkout my Portfolio Site</Link>
-                <Link href=""
+                <Link href="https://github.com/DeepK2K/AI-Image_Generator_DK.git"
                     className='px-2 font-light'>GitHub Repository</Link>
             </div>
         </header>
